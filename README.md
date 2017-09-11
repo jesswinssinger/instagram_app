@@ -9,8 +9,11 @@ This project was created based on a youtube tutorial (https://www.youtube.com/wa
 
 ### Register
 ![alt text](https://github.com/jesswinssinger/instagram_app/blob/master/screenshots/Screen%20Shot%202017-09-10%20at%2023.47.13.png)
+
 To register, click on the register tab in the navigation bar,
+
 ![alt text](https://github.com/jesswinssinger/instagram_app/blob/master/screenshots/Screen%20Shot%202017-09-10%20at%2023.47.07.png)
+
 and enter the necessary information.
 
 ### Login/Logout
